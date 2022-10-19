@@ -1,4 +1,5 @@
 ### Hi there I am Mirza Mohtashim Alam👋
+Expert data scientist and researcher with 5+ years of experience developing successful predictive models, forecasting and algorithms for different industries working on several subject matters.
 
 <!--
 **ColdMist/ColdMist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
