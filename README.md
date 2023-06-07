@@ -1,7 +1,9 @@
 ### Hi there, I'm Mirza Mohtashim Alam 👋 🇧🇩 🇩🇪 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/ColdMist) ![Python](https://img.shields.io/badge/Python-%E2%99%A5%EF%B8%8F-green)  <img src="https://komarev.com/ghpvc/?username=ColdMist" alt="ColdMist" /> 
-## I'm a Research Scientist, interested in Machine Learning, Deep Learning, Language Models, Conversational AI and Dialogue Systems  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
-- 🧑‍💻 I'm currently employed at Institute of Applied Informatic (InfAI)  Group as a Research Scientist, in Dresden, Germany 🇩🇪
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Python](https://img.shields.io/badge/Python-%E2%99%A5%EF%B8%8F-green)  <img src="https://komarev.com/ghpvc/?username=ColdMist" alt="ColdMist" /> 
+## I'm a Doctoral Researcher, interested in Knowledge Graphs, Machine Learning, Deep Learning, Language Models, Question Answering and Dialogue Systems  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
+- 🧑‍💻 Previously I have worked as a research scientist at Institute of Applied Informatic (InfAI)  Group, in Dresden, Germany 🇩🇪 and as a lecturer at the Department of Computer Science and Engineering, Daffodil International University, Dhaka Bangladesh 🇧🇩
+- 🎓 I have completed my M.Sc. in Computer Science from the University of Bonn, Germany 🇩🇪 and B.Sc. in Computer Science and Engineering from BRAC University, Dhaka, Bangladesh 🇧🇩
 - 💡 I’m currently working on Dialogue Systems and the utilization of Pretrained Language Models.
 - 🤝 I’m looking to collaborate on question answering and conversational AI research/projects.
 - 💬 Ask me about anything related to Machine Learning ,deep learning, NLP, dialouge and QA systems.
@@ -20,4 +22,3 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Mirza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdMist&count_private=true)
