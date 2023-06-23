@@ -1,7 +1,7 @@
 ### Hi there, I'm Mirza Mohtashim Alam 👋 🇧🇩 🇩🇪 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Python](https://img.shields.io/badge/Python-%E2%99%A5%EF%B8%8F-green)  <img src="https://komarev.com/ghpvc/?username=ColdMist" alt="ColdMist" /> 
 ## I'm a Doctoral Researcher, interested in Knowledge Graphs, Machine Learning, Deep Learning, Language Models, Question Answering and Dialogue Systems  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-- 🎓 Currently pursuing PhD in Computer Science in Karlsruhe Institute Of Technology and working as a researcher in FIZ Karsruhe. 
+- 🎓 Currently pursuing PhD in Computer Science in Karlsruhe Institute Of Technology (KIT) and working as a researcher in FIZ Karsruhe. 
 - 🧑‍💻 Previously I have worked as a research scientist at Institute of Applied Informatic (InfAI)  Group, in Dresden, Germany 🇩🇪 and as a lecturer at the Department of Computer Science and Engineering, Daffodil International University, Dhaka Bangladesh 🇧🇩
 - 🎓 I have completed my M.Sc. in Computer Science from the University of Bonn, Germany 🇩🇪 and B.Sc. in Computer Science and Engineering from BRAC University, Dhaka, Bangladesh 🇧🇩
 - 💡 I’m currently working on Dialogue Systems and the utilization of Pretrained Language Models.
